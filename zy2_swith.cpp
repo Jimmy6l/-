@@ -2,7 +2,7 @@
 void main()
 {
 	int a;
-	cout<<"ÊäÈëÒ»¸öÕûÊý:";
+	cout<<"è¾“å…¥ä¸€ä¸ªæ•´æ•°:";
 	cin>>a;
 	switch(a)
 	{
