@@ -2,7 +2,7 @@
 void main()
 {
 int a;
-cout<<"ÊäÈëÒ»¸öÕûÊý"<<endl;
+cout<<"è¾“å…¥ä¸€ä¸ªæ•´æ•°:"<<endl;
 cin>>a;
 if(a>0)
 {if (a<10)
