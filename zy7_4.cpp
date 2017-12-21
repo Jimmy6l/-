@@ -2,7 +2,7 @@
 void main()
 {
 	int a[10],i,j;
-    cout<<"·´ÐòÊý×é: "<<endl;
+    cout<<" ååºå­˜æ”¾çš„æ•°ç»„: "<<endl;
 	for(i=0;i<10;i++)
 		cin>>a[i];
 	int*p,*q;
