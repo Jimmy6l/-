@@ -2,7 +2,7 @@
 void main()
 {
 	int a[10],l,max,min,m,n,i,j;
-    cout<<"调换位置后的数组: "<<endl;
+    cout<<"璋冩崲鍚庣殑浣嶇疆: "<<endl;
 	for(i=0;i<10;i++)
 		cin>>a[i];
 	int*p,*q;
